@@ -89,3 +89,27 @@ import random
 # tw[1,2]=33
 # print(tw)
 
+
+
+                                                                    #  zeros and ones
+# tw = np.array([[0,1,2,3,5], 
+#                 [3,4,5,6,8],                                    
+#                 [6,7,8,8,9]])
+# # Numpy Zeroes
+# numpy_ones = np.zeros((3,3),dtype=int,order='C')
+
+# numpy_ones = np.ones((3,3),dtype=int,order='C')
+# print(numpy_ones)
+
+
+
+
+
+                                                                        #    reshape
+# tw = np.array([[0,1,2,3], 
+#                 [3,4,5,6],                                    
+#                 [6,7,8,8]])
+
+# tt=tw.reshape(6,2)
+# print(tt)
+
