@@ -57,3 +57,14 @@ import random
 # oo=tw+10
 # print(oo)
 
+
+
+
+                                                                    #    indexing
+# tw = np.array([[0,1,2,3,5], 
+#                 [3,4,5,6,8],                                    
+#                 [6,7,8,8,9]])
+# fore=tw[1]
+# print(fore)
+
+
