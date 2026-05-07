@@ -113,3 +113,34 @@ import random
 # tt=tw.reshape(6,2)
 # print(tt)
 
+
+
+
+# tw = np.array([[0,1,2,3], 
+#                 [3,4,5,6],                                    
+#                 [6,7,8,8]])
+# flattened = tw.flatten()
+# print(flattened)
+
+
+
+
+
+
+
+                                                                             ## Horitzontal Stack
+# np_list_one = np.array([1,2,3])
+# np_list_two = np.array([4,5,6])
+
+# print(np_list_one + np_list_two)
+
+# print('Horizontal Append:', np.hstack((np_list_one, np_list_two)))
+
+
+
+
+
+                                                                                #   random number genration
+# rano=np.random.randint(2,8,size=(3,3))
+# print(rano)
+
