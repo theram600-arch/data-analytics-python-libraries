@@ -68,3 +68,24 @@ import random
 # print(fore)
 
 
+
+
+
+                                                                        # slicing
+# tw = np.array([[0,1,2,3,5], 
+#                 [3,4,5,6,8],                                    
+#                 [6,7,8,8,9]])
+# # array[start:end:step]
+# print(tw[0,1])
+# print(tw[0:1,1:2])
+# print(tw[0:1,1:2]).item()
+
+
+
+
+# tw = np.array([[0,1,2,3,5], 
+#                 [3,4,5,6,8],                                    
+#                 [6,7,8,8,9]])
+# tw[1,2]=33
+# print(tw)
+
