@@ -144,3 +144,18 @@ import random
 # rano=np.random.randint(2,8,size=(3,3))
 # print(rano)
 
+
+
+
+
+# tw = np.array([[0,1,2,3], 
+#                 [3,4,5,6],                                    
+#                 [6,7,8,8]])
+# arr = np.array([10, 20, 30, 40, 50])
+# print(sum(tw))
+# print(np.max(tw))
+# print(np.mean(arr))
+# print(np.min(arr))
+
+
+
